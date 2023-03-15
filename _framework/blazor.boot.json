@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "blazorgrid.dll": "sha256-lh\/lPQMcfLYRikvwCzThd7SrDwxt7j7fil5Y1MqhZyU=",
+      "blazorgrid.dll": "sha256-ZZb4N85rhOyIZEfO8dBXrm9Bhq4LGdqtc\/muyM+Tjx4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-YZzMMvvB3iUU\/NohHDgpcXFanEeHFnTEgYnSqvNShcM=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-7JaZWdOqtWZOBRVRZuc7a86b0NNehv\/o3qwiRt9xFzQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-tmfiOuJGzcExkU\/wla5XYxX6dFHPbaIN+I83g1ddlqE=",
